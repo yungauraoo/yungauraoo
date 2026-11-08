@@ -1,16 +1,13 @@
-## Hi there 👋
+# yo, i'm yungauraoo 👋
 
-<!--
-**yungauraoo/yungauraoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer interested in simple tools and pragmatic development. Based in Singapore.
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I debug faster with music on
+- 📝 I keep notes about pragmatic development
+- 💬 Ask me about TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yungauraoo&hide_border=true&theme=synthwave" alt="Commit streak" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=yungauraoo&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/React-ff7b72?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Node.js-ff7b72?style=for-the-badge&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/TypeScript-ff7b72?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Express-ff7b72?style=for-the-badge&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/SQLite-ff7b72?style=for-the-badge&logoColor=white" alt="SQLite" />
